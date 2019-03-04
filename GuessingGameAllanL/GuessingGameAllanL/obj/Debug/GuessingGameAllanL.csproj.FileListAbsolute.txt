@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Unit 3 (Decisions)\GuessingGameAllanL\GuessingGameAllanL\bin\Debug\GuessingGameAllanL.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Unit 3 (Decisions)\GuessingGameAllanL\GuessingGameAllanL\bin\Debug\GuessingGameAllanL.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Unit 3 (Decisions)\GuessingGameAllanL\GuessingGameAllanL\bin\Debug\GuessingGameAllanL.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Unit 3 (Decisions)\GuessingGameAllanL\GuessingGameAllanL\obj\Debug\GuessingGameAllanL.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Unit 3 (Decisions)\GuessingGameAllanL\GuessingGameAllanL\obj\Debug\GuessingGameAllanL.frmGuessingGame.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Unit 3 (Decisions)\GuessingGameAllanL\GuessingGameAllanL\obj\Debug\GuessingGameAllanL.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Unit 3 (Decisions)\GuessingGameAllanL\GuessingGameAllanL\obj\Debug\GuessingGameAllanL.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Unit 3 (Decisions)\GuessingGameAllanL\GuessingGameAllanL\obj\Debug\GuessingGameAllanL.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Unit 3 (Decisions)\GuessingGameAllanL\GuessingGameAllanL\obj\Debug\GuessingGameAllanL.pdb
