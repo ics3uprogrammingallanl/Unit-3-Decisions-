@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+ * Created by: Allan L
+ * Created on: March 3, 2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #19 - Chocolate Boxes
+ */
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -25,13 +31,17 @@ namespace ChocolateBoxesAllanL
 
             if (boxesOfChoc > 20)
             {
-                lblReward.Text = " A Prize";
+                lblReward.Text = " A Car";
             }
             else
             {
                 if (boxesOfChoc < 10)
                 {
                     lblReward.Text = " An honorable Mention";
+                }
+                else if(boxesOfChoc >10)
+                {
+                    lblReward.Text = " A Small Prize";    
                 }
             }
         }
