@@ -38,7 +38,7 @@ namespace FactorialWithForLoopAllanL
             facAns = 1;
 
             //get the number from the user
-            FacNum = Convert.ToDouble(this.nubNum.Value);
+            FacNum = Convert.ToDouble(this.nudNum.Value);
 
             //Looping
             for (facCount = 1; facCount <= FacNum; facCount++)
@@ -50,7 +50,7 @@ namespace FactorialWithForLoopAllanL
                 facAns = facAns * facCount;
             }
             //Convert the answer to a string and display it
-            this.lblAnswer.Text = this.nubNum.Value + " ! = " + Convert.ToString(facAns);
+            this.lblAnswer.Text = this.nudNum.Value + " ! = " + Convert.ToString(facAns);
         }
     }
 }

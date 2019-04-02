@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             this.btncalculate = new System.Windows.Forms.Button();
-            this.nubNum = new System.Windows.Forms.NumericUpDown();
+            this.nudNum = new System.Windows.Forms.NumericUpDown();
             this.lstFacNum = new System.Windows.Forms.ListBox();
             this.lblAnswer = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.nubNum)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudNum)).BeginInit();
             this.SuspendLayout();
             // 
             // btncalculate
@@ -46,13 +46,13 @@
             this.btncalculate.UseVisualStyleBackColor = true;
             this.btncalculate.Click += new System.EventHandler(this.btncalculate_Click);
             // 
-            // nubNum
+            // nudNum
             // 
-            this.nubNum.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.nubNum.Location = new System.Drawing.Point(107, 38);
-            this.nubNum.Name = "nubNum";
-            this.nubNum.Size = new System.Drawing.Size(120, 26);
-            this.nubNum.TabIndex = 1;
+            this.nudNum.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.nudNum.Location = new System.Drawing.Point(107, 38);
+            this.nudNum.Name = "nudNum";
+            this.nudNum.Size = new System.Drawing.Size(120, 26);
+            this.nudNum.TabIndex = 1;
             // 
             // lstFacNum
             // 
@@ -80,12 +80,12 @@
             this.ClientSize = new System.Drawing.Size(327, 291);
             this.Controls.Add(this.lblAnswer);
             this.Controls.Add(this.lstFacNum);
-            this.Controls.Add(this.nubNum);
+            this.Controls.Add(this.nudNum);
             this.Controls.Add(this.btncalculate);
             this.Name = "frmFactorialWithForLoop";
             this.StartPosition = System.Windows.Forms.FormStartPosition.WindowsDefaultBounds;
             this.Text = "Factorial with For Loop by Allan L";
-            ((System.ComponentModel.ISupportInitialize)(this.nubNum)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudNum)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -94,7 +94,7 @@
         #endregion
 
         private System.Windows.Forms.Button btncalculate;
-        private System.Windows.Forms.NumericUpDown nubNum;
+        private System.Windows.Forms.NumericUpDown nudNum;
         private System.Windows.Forms.ListBox lstFacNum;
         private System.Windows.Forms.Label lblAnswer;
     }
