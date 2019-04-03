@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Allan L
+ * Created on: April 2, 2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #26 - Alphabet Nested Loops
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
